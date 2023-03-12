@@ -50,6 +50,17 @@
       "reloadNow": "立即重新加载",
       "reloadLater": "稍后重新加载"
     },
+    "backupModal": {
+      "title": "$t(settings.backupHeading)",
+      "settingsCopied": "Settings copied to clipboard",
+      "noDataPasted": "No data pasted",
+      "invalidJSON": "Invalid JSON",
+      "inputLabel": "市场设置",
+      "inputPlaceholder": "将设置复制/粘贴到此处",
+      "exportBtn": "导出",
+      "importBtn": "导入",
+      "fileImportBtn": "从文件导入"
+    },
     "devTools": {
       "title": "主題开发者工具",
       "noThemeInstalled": "错误：未安装商场主题",
