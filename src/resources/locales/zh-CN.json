@@ -8,10 +8,14 @@
       "devToolsLabel": "主題开发者工具",
       "hideInstalledLabel": "浏览时隐藏已安装项目",
       "colourShiftLabel": "每分钟进行色调偏移",
+      "albumArtBasedColors": "根据专辑艺术更改颜色",
       "tabsHeading": "分页",
       "resetHeading": "重置",
       "resetBtn": "$t(settings.resetHeading)",
-      "resetDescription": "卸载所有扩展插件和主题，并重置设置"
+      "resetDescription": "卸载所有扩展插件和主题，并重置设置",
+      "backupHeading": "备份/恢复",
+      "backupLabel": "备份或恢复所有市场数据。这不包括通过市场安装的任何设置。",
+      "backupBtn": "打开"
     },
     "tabs": {
       "Extensions": "扩展插件",
